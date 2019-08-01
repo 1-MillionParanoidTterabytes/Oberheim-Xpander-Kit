@@ -1,4 +1,8 @@
 # Oberheim Xpander Construction Kit
+
+Requires audio files:
+
+https://www.dropbox.com/sh/2w6xaqiyask55fv/AAA2PpYtBvwmu1rh-1xohWMoa?dl=0
  
 Audio Construction Kit Created with a Oberheim Xpander.
 
@@ -15,6 +19,3 @@ Featuring:
 *Multi Stacks for Logic 10
 
 
-Audio Data available on dropbox:
-
-https://www.dropbox.com/sh/ft94pxbpi392as3/AADvDItnWG6D-IEDhe3_f4NGa?dl=0
